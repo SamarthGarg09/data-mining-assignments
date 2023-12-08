@@ -1,1 +1,1 @@
-# DM assignments for the course Data Mining (2022-23)
+# DM assignments for the course Data Mining 
